@@ -1,0 +1,1 @@
+2026-01-08 17:51:35,471-ERROR-API returned error 500: {"detail":"(message) | Error: create_react_agent() missing 1 required positional argument: 'model' | File: /Users/reddeppakollu/Multi-AI agent/app/backend/api.py | Line: 42"}

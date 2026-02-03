@@ -1,0 +1,1 @@
+2026-01-08 17:29:37,235-ERROR-API returned error 500: {"detail":"(message) | Error: The api_key client option must be set either by passing api_key to the client or by setting the GROQ_API_KEY environment variable | File: /Users/reddeppakollu/Multi-AI agent/app/backend/api.py | Line: 31"}

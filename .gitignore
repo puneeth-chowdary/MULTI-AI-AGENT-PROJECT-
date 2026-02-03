@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+multi_ai_agent.egg-info/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store

@@ -1,0 +1,2 @@
+2026-01-08 17:39:45,782-ERROR-API returned error 500: {"detail":"(message) | Error: create_react_agent() got unexpected keyword arguments: {'state_modifier': 'you are financial advisor '} | File: /Users/reddeppakollu/Multi-AI agent/app/backend/api.py | Line: 42"}
+2026-01-08 17:40:28,896-ERROR-API returned error 500: {"detail":"(message) | Error: create_react_agent() got unexpected keyword arguments: {'state_modifier': ''} | File: /Users/reddeppakollu/Multi-AI agent/app/backend/api.py | Line: 42"}

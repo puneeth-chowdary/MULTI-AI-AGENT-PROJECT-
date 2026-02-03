@@ -1,0 +1,4 @@
+2026-01-08 17:39:45,720-INFO-Received request for model: llama3-70b-8192
+2026-01-08 17:39:45,781-ERROR-Error while generating response: create_react_agent() got unexpected keyword arguments: {'state_modifier': 'you are financial advisor '}
+2026-01-08 17:40:28,878-INFO-Received request for model: llama3-70b-8192
+2026-01-08 17:40:28,895-ERROR-Error while generating response: create_react_agent() got unexpected keyword arguments: {'state_modifier': ''}

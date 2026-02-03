@@ -1,0 +1,6 @@
+2026-01-08 17:12:19,424-INFO-Starting backend API server...
+2026-01-08 17:12:22,430-INFO-Starting frontend Streamlit app...
+2026-01-08 17:14:21,717-INFO-Received request for model: llama-3.1-8b-instant
+2026-01-08 17:14:21,717-ERROR-Error while generating response: get_response_from_ai_agents() got an unexpected keyword argument 'model_name'
+2026-01-08 17:19:03,399-INFO-Received request for model: llama-3.1-8b-instant
+2026-01-08 17:19:03,399-ERROR-Error while generating response: get_response_from_ai_agents() got an unexpected keyword argument 'model_name'
